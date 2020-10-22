@@ -8,7 +8,7 @@ namespace MyProject
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
-            Console.WriteLine("Avigail Grilus");
+            Console.WriteLine("Avigail");
 
         }
     }
