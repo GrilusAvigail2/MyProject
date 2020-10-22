@@ -48,11 +48,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\USER\\Desktop\\MyProject\\MyProject\\MyProject\\MyProject.csproj",
+      "projectUniqueName": "C:\\Users\\USER\\Desktop\\MyProject\\Project\\MyProject\\MyProject.csproj",
       "projectName": "MyProject",
-      "projectPath": "C:\\Users\\USER\\Desktop\\MyProject\\MyProject\\MyProject\\MyProject.csproj",
+      "projectPath": "C:\\Users\\USER\\Desktop\\MyProject\\Project\\MyProject\\MyProject.csproj",
       "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\USER\\Desktop\\MyProject\\MyProject\\MyProject\\obj\\",
+      "outputPath": "C:\\Users\\USER\\Desktop\\MyProject\\Project\\MyProject\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\USER\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -68,11 +68,11 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Users\\USER\\Desktop\\MyProject\\MyProject\\Algoritm\\Algoritm.csproj": {
-              "projectPath": "C:\\Users\\USER\\Desktop\\MyProject\\MyProject\\Algoritm\\Algoritm.csproj"
+            "C:\\Users\\USER\\Desktop\\MyProject\\Project\\Algoritm\\Algoritm.csproj": {
+              "projectPath": "C:\\Users\\USER\\Desktop\\MyProject\\Project\\Algoritm\\Algoritm.csproj"
             },
-            "C:\\Users\\USER\\Desktop\\MyProject\\MyProject\\ReadAndWriteData\\ReadAndWriteData.csproj": {
-              "projectPath": "C:\\Users\\USER\\Desktop\\MyProject\\MyProject\\ReadAndWriteData\\ReadAndWriteData.csproj"
+            "C:\\Users\\USER\\Desktop\\MyProject\\Project\\ReadAndWriteData\\ReadAndWriteData.csproj": {
+              "projectPath": "C:\\Users\\USER\\Desktop\\MyProject\\Project\\ReadAndWriteData\\ReadAndWriteData.csproj"
             }
           }
         }

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\USER\\Desktop\\MyProject\\MyProject\\MyProject\\MyProject.csproj": {}
+    "C:\\Users\\USER\\Desktop\\MyProject\\Project\\MyProject\\MyProject.csproj": {}
   },
   "projects": {
-    "C:\\Users\\USER\\Desktop\\MyProject\\MyProject\\Algoritm\\Algoritm.csproj": {
+    "C:\\Users\\USER\\Desktop\\MyProject\\Project\\Algoritm\\Algoritm.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\USER\\Desktop\\MyProject\\MyProject\\Algoritm\\Algoritm.csproj",
+        "projectUniqueName": "C:\\Users\\USER\\Desktop\\MyProject\\Project\\Algoritm\\Algoritm.csproj",
         "projectName": "Algoritm",
-        "projectPath": "C:\\Users\\USER\\Desktop\\MyProject\\MyProject\\Algoritm\\Algoritm.csproj",
+        "projectPath": "C:\\Users\\USER\\Desktop\\MyProject\\Project\\Algoritm\\Algoritm.csproj",
         "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\USER\\Desktop\\MyProject\\MyProject\\Algoritm\\obj\\",
+        "outputPath": "C:\\Users\\USER\\Desktop\\MyProject\\Project\\Algoritm\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\USER\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -56,14 +56,14 @@
         }
       }
     },
-    "C:\\Users\\USER\\Desktop\\MyProject\\MyProject\\MyProject\\MyProject.csproj": {
+    "C:\\Users\\USER\\Desktop\\MyProject\\Project\\MyProject\\MyProject.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\USER\\Desktop\\MyProject\\MyProject\\MyProject\\MyProject.csproj",
+        "projectUniqueName": "C:\\Users\\USER\\Desktop\\MyProject\\Project\\MyProject\\MyProject.csproj",
         "projectName": "MyProject",
-        "projectPath": "C:\\Users\\USER\\Desktop\\MyProject\\MyProject\\MyProject\\MyProject.csproj",
+        "projectPath": "C:\\Users\\USER\\Desktop\\MyProject\\Project\\MyProject\\MyProject.csproj",
         "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\USER\\Desktop\\MyProject\\MyProject\\MyProject\\obj\\",
+        "outputPath": "C:\\Users\\USER\\Desktop\\MyProject\\Project\\MyProject\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\USER\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -79,11 +79,11 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\Users\\USER\\Desktop\\MyProject\\MyProject\\Algoritm\\Algoritm.csproj": {
-                "projectPath": "C:\\Users\\USER\\Desktop\\MyProject\\MyProject\\Algoritm\\Algoritm.csproj"
+              "C:\\Users\\USER\\Desktop\\MyProject\\Project\\Algoritm\\Algoritm.csproj": {
+                "projectPath": "C:\\Users\\USER\\Desktop\\MyProject\\Project\\Algoritm\\Algoritm.csproj"
               },
-              "C:\\Users\\USER\\Desktop\\MyProject\\MyProject\\ReadAndWriteData\\ReadAndWriteData.csproj": {
-                "projectPath": "C:\\Users\\USER\\Desktop\\MyProject\\MyProject\\ReadAndWriteData\\ReadAndWriteData.csproj"
+              "C:\\Users\\USER\\Desktop\\MyProject\\Project\\ReadAndWriteData\\ReadAndWriteData.csproj": {
+                "projectPath": "C:\\Users\\USER\\Desktop\\MyProject\\Project\\ReadAndWriteData\\ReadAndWriteData.csproj"
               }
             }
           }
@@ -115,14 +115,14 @@
         }
       }
     },
-    "C:\\Users\\USER\\Desktop\\MyProject\\MyProject\\ReadAndWriteData\\ReadAndWriteData.csproj": {
+    "C:\\Users\\USER\\Desktop\\MyProject\\Project\\ReadAndWriteData\\ReadAndWriteData.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\USER\\Desktop\\MyProject\\MyProject\\ReadAndWriteData\\ReadAndWriteData.csproj",
+        "projectUniqueName": "C:\\Users\\USER\\Desktop\\MyProject\\Project\\ReadAndWriteData\\ReadAndWriteData.csproj",
         "projectName": "ReadAndWriteData",
-        "projectPath": "C:\\Users\\USER\\Desktop\\MyProject\\MyProject\\ReadAndWriteData\\ReadAndWriteData.csproj",
+        "projectPath": "C:\\Users\\USER\\Desktop\\MyProject\\Project\\ReadAndWriteData\\ReadAndWriteData.csproj",
         "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\USER\\Desktop\\MyProject\\MyProject\\ReadAndWriteData\\obj\\",
+        "outputPath": "C:\\Users\\USER\\Desktop\\MyProject\\Project\\ReadAndWriteData\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\USER\\AppData\\Roaming\\NuGet\\NuGet.Config",

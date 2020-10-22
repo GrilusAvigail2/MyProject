@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\USER\\Desktop\\MyProject\\MyProject\\ReadAndWriteData\\ReadAndWriteData.csproj": {}
+    "C:\\Users\\USER\\Desktop\\MyProject\\Project\\ReadAndWriteData\\ReadAndWriteData.csproj": {}
   },
   "projects": {
-    "C:\\Users\\USER\\Desktop\\MyProject\\MyProject\\ReadAndWriteData\\ReadAndWriteData.csproj": {
+    "C:\\Users\\USER\\Desktop\\MyProject\\Project\\ReadAndWriteData\\ReadAndWriteData.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\USER\\Desktop\\MyProject\\MyProject\\ReadAndWriteData\\ReadAndWriteData.csproj",
+        "projectUniqueName": "C:\\Users\\USER\\Desktop\\MyProject\\Project\\ReadAndWriteData\\ReadAndWriteData.csproj",
         "projectName": "ReadAndWriteData",
-        "projectPath": "C:\\Users\\USER\\Desktop\\MyProject\\MyProject\\ReadAndWriteData\\ReadAndWriteData.csproj",
+        "projectPath": "C:\\Users\\USER\\Desktop\\MyProject\\Project\\ReadAndWriteData\\ReadAndWriteData.csproj",
         "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\USER\\Desktop\\MyProject\\MyProject\\ReadAndWriteData\\obj\\",
+        "outputPath": "C:\\Users\\USER\\Desktop\\MyProject\\Project\\ReadAndWriteData\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\USER\\AppData\\Roaming\\NuGet\\NuGet.Config",
