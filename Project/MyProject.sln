@@ -3,11 +3,16 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30503.244
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyProject", "MyProject\MyProject.csproj", "{051A50C4-75AE-4976-8B16-04842F264249}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MyProject", "MyProject\MyProject.csproj", "{051A50C4-75AE-4976-8B16-04842F264249}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Algoritm", "Algoritm\Algoritm.csproj", "{D92CAA11-4AFC-4616-8E2B-5BC09B66A71A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Algoritm", "Algoritm\Algoritm.csproj", "{D92CAA11-4AFC-4616-8E2B-5BC09B66A71A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReadAndWriteData", "ReadAndWriteData\ReadAndWriteData.csproj", "{78AC0453-5DE4-48A2-8FCF-445C4997DA62}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ReadAndWriteData", "ReadAndWriteData\ReadAndWriteData.csproj", "{78AC0453-5DE4-48A2-8FCF-445C4997DA62}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{ACE470E7-9296-401F-B953-59B7D2919088}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

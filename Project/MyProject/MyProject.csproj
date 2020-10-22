@@ -6,6 +6,14 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <None Include="..\.editorconfig" Link=".editorconfig" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="EpplusExcel" Version="1.0.0" />
+  </ItemGroup>
+
+  <ItemGroup>
     <ProjectReference Include="..\Algoritm\Algoritm.csproj" />
     <ProjectReference Include="..\ReadAndWriteData\ReadAndWriteData.csproj" />
   </ItemGroup>

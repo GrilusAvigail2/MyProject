@@ -6,3 +6,12 @@ C:\Users\USER\Desktop\MyProject\MyProject\ReadAndWriteData\obj\Debug\netcoreapp3
 C:\Users\USER\Desktop\MyProject\MyProject\ReadAndWriteData\obj\Debug\netcoreapp3.1\ReadAndWriteData.csproj.CoreCompileInputs.cache
 C:\Users\USER\Desktop\MyProject\MyProject\ReadAndWriteData\obj\Debug\netcoreapp3.1\ReadAndWriteData.dll
 C:\Users\USER\Desktop\MyProject\MyProject\ReadAndWriteData\obj\Debug\netcoreapp3.1\ReadAndWriteData.pdb
+C:\Users\USER\Desktop\MyProject\Project\ReadAndWriteData\bin\Debug\netcoreapp3.1\ReadAndWriteData.deps.json
+C:\Users\USER\Desktop\MyProject\Project\ReadAndWriteData\bin\Debug\netcoreapp3.1\ReadAndWriteData.dll
+C:\Users\USER\Desktop\MyProject\Project\ReadAndWriteData\bin\Debug\netcoreapp3.1\ReadAndWriteData.pdb
+C:\Users\USER\Desktop\MyProject\Project\ReadAndWriteData\obj\Debug\netcoreapp3.1\ReadAndWriteData.csprojAssemblyReference.cache
+C:\Users\USER\Desktop\MyProject\Project\ReadAndWriteData\obj\Debug\netcoreapp3.1\ReadAndWriteData.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\MyProject\Project\ReadAndWriteData\obj\Debug\netcoreapp3.1\ReadAndWriteData.AssemblyInfo.cs
+C:\Users\USER\Desktop\MyProject\Project\ReadAndWriteData\obj\Debug\netcoreapp3.1\ReadAndWriteData.dll
+C:\Users\USER\Desktop\MyProject\Project\ReadAndWriteData\obj\Debug\netcoreapp3.1\ReadAndWriteData.pdb
+C:\Users\USER\Desktop\MyProject\Project\ReadAndWriteData\obj\Debug\netcoreapp3.1\ReadAndWriteData.csproj.CoreCompileInputs.cache

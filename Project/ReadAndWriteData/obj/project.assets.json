@@ -1,11 +1,50 @@
 {
   "version": 3,
   "targets": {
-    ".NETCoreApp,Version=v3.1": {}
+    ".NETCoreApp,Version=v3.1": {
+      "EpplusExcel/1.0.0": {
+        "type": "package",
+        "compile": {
+          "lib/net40/EPPlus_ExcelDemo.vshost.exe": {},
+          "lib/net40/Spire.License.dll": {},
+          "lib/net40/Spire.Pdf.dll": {},
+          "lib/net40/Spire.XLS.dll": {}
+        },
+        "runtime": {
+          "lib/net40/EPPlus_ExcelDemo.vshost.exe": {},
+          "lib/net40/Spire.License.dll": {},
+          "lib/net40/Spire.Pdf.dll": {},
+          "lib/net40/Spire.XLS.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "EpplusExcel/1.0.0": {
+      "sha512": "0dP0gfNlZaMXZKpnrWX6aVZDofZflUDswpe9pl/D06qz2K4Snc2cQzEnzfOv/SLlSH2Rxhxj4KBTvX8GoCpkjg==",
+      "type": "package",
+      "path": "epplusexcel/1.0.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "epplusexcel.1.0.0.nupkg.sha512",
+        "epplusexcel.nuspec",
+        "lib/net40/EPPlus_ExcelDemo.exe.config",
+        "lib/net40/EPPlus_ExcelDemo.vshost.exe",
+        "lib/net40/EPPlus_ExcelDemo.vshost.exe.config",
+        "lib/net40/EPPlus_ExcelDemo.vshost.exe.manifest",
+        "lib/net40/Spire.License.dll",
+        "lib/net40/Spire.Pdf.dll",
+        "lib/net40/Spire.Pdf.xml",
+        "lib/net40/Spire.XLS.dll",
+        "lib/net40/Spire.XLS.xml"
+      ]
+    }
+  },
   "projectFileDependencyGroups": {
-    ".NETCoreApp,Version=v3.1": []
+    ".NETCoreApp,Version=v3.1": [
+      "EpplusExcel >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\USER\\.nuget\\packages\\": {}
@@ -43,6 +82,12 @@
     },
     "frameworks": {
       "netcoreapp3.1": {
+        "dependencies": {
+          "EpplusExcel": {
+            "target": "Package",
+            "version": "[1.0.0, )"
+          }
+        },
         "imports": [
           "net461",
           "net462",
@@ -61,5 +106,17 @@
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
       }
     }
-  }
+  },
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'EpplusExcel 1.0.0' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework '.NETCoreApp,Version=v3.1'. This package may not be fully compatible with your project.",
+      "libraryId": "EpplusExcel",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v3.1"
+      ]
+    }
+  ]
 }
