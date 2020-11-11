@@ -15,4 +15,6 @@ C:\Users\USER\Desktop\MyProject\Project\Algoritm\obj\Debug\netcoreapp3.1\Algorit
 C:\Users\USER\Desktop\MyProject\Project\Algoritm\obj\Debug\netcoreapp3.1\Algoritm.AssemblyInfo.cs
 C:\Users\USER\Desktop\MyProject\Project\Algoritm\obj\Debug\netcoreapp3.1\Algoritm.dll
 C:\Users\USER\Desktop\MyProject\Project\Algoritm\obj\Debug\netcoreapp3.1\Algoritm.pdb
-C:\Users\USER\Desktop\MyProject\Project\Algoritm\obj\Debug\netcoreapp3.1\Algoritm.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\MyProject\Project\Algoritm\bin\Debug\netcoreapp3.1\ReadAndWriteData.dll
+C:\Users\USER\Desktop\MyProject\Project\Algoritm\bin\Debug\netcoreapp3.1\ReadAndWriteData.pdb
+C:\Users\USER\Desktop\MyProject\Project\Algoritm\obj\Debug\netcoreapp3.1\Algoritm.csproj.CopyComplete

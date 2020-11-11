@@ -14,4 +14,3 @@ C:\Users\USER\Desktop\MyProject\Project\ReadAndWriteData\obj\Debug\netcoreapp3.1
 C:\Users\USER\Desktop\MyProject\Project\ReadAndWriteData\obj\Debug\netcoreapp3.1\ReadAndWriteData.AssemblyInfo.cs
 C:\Users\USER\Desktop\MyProject\Project\ReadAndWriteData\obj\Debug\netcoreapp3.1\ReadAndWriteData.dll
 C:\Users\USER\Desktop\MyProject\Project\ReadAndWriteData\obj\Debug\netcoreapp3.1\ReadAndWriteData.pdb
-C:\Users\USER\Desktop\MyProject\Project\ReadAndWriteData\obj\Debug\netcoreapp3.1\ReadAndWriteData.csproj.CoreCompileInputs.cache

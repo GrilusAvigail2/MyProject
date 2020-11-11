@@ -1,5 +1,7 @@
-﻿using System;
-using OfficeOpenXml;
+﻿#pragma warning disable IDE0005 // Using directive is unnecessary.
+using System;
+#pragma warning restore IDE0005 // Using directive is unnecessary.
+
 
 
 namespace Algoritm

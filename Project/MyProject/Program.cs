@@ -1,5 +1,8 @@
-﻿using System;
-using OfficeOpenXml;
+﻿#pragma warning disable IDE0005 // Using directive is unnecessary.
+using Microsoft.EntityFrameworkCore.Internal;
+using System;
+#pragma warning restore IDE0005 // Using directive is unnecessary.
+
 
 namespace MyProject
 {
@@ -7,7 +10,7 @@ namespace MyProject
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Graph g = new Graph();
 
         }
     }
